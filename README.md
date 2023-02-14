@@ -20,7 +20,6 @@ VGG-19 is a convolutional neural network that is 19 layers deep. You can load a 
 
 
 
-![App Screenshot](https://www.researchgate.net/profile/Masoud-Mahdianpari/publication/326421398/figure/fig4/AS:649352863301634@1531829195262/Schematic-diagram-of-a-VGG16-and-b-VGG19-models.png)
 
 
 
