@@ -15,12 +15,16 @@ VGG-19 is a convolutional neural network that is 19 layers deep. You can load a 
 
 # VGG19
 
-![App Screenshot](https://www.researchgate.net/publication/359771670/figure/fig5/AS:11431281079634597@1660789329088/VGG-19-Architecture-39-VGG-19-has-16-convolution-layers-grouped-into-5-blocks-After.png)
+![App Screenshot](https://miro.medium.com/v2/resize:fit:828/format:webp/1*swiy1KpD-4xe6GWjT_BP9w.png)
 
 
 
 
-![App Screenshot](https://www.researchgate.net/profile/Bong-Chul-Kim-2/publication/344440237/figure/fig1/AS:941778450526209@1601548888477/Feature-extractor-architecture-using-VGG19-network.ppm)
+![App Screenshot](https://www.researchgate.net/profile/Masoud-Mahdianpari/publication/326421398/figure/fig4/AS:649352863301634@1531829195262/Schematic-diagram-of-a-VGG16-and-b-VGG19-models.png)
+
+
+
+![App Screenshot](https://qph.cf2.quoracdn.net/main-qimg-83c7dee9e8b039c3ca27c8dd91cacbb4)
 
 
 
